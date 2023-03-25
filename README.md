@@ -1,2 +1,1 @@
-# Tindog
-Web Development course exercise
+TinDog Starting Files
